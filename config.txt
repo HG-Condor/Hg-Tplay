@@ -1,6 +1,6 @@
-token=NTM3NjcwMjQzNzQ5ODU1MjMy.DyooCw.CIJc5PNXEZyrLxZZiPlqqVmJziM
+token=NTM2OTY3ODk0MTI3MzQ1Njc2.XLUb5g.PaIerurowG8xXoaeLVmYoYyzXT0
 owner=433198762706599936
-prefix=f
-game= KFC bot..
+prefix=1
+game= The Silent Music..
 stayinchannel=true
 songinstatus=true 
